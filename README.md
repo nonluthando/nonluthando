@@ -2,7 +2,7 @@
 
 **Graduate software engineer · data & applied ML · behavioural perspective**
 
-A curious, self-directed problem solver who learns by doing. BSc Computer Science & Psychology graduate from South Africa (open to relocation), with commercial full-stack and NLP experience and a focus on systems that respond to what users need and do, and explain the decisions they make.
+A curious, self-directed problem solver who learns by doing. BSc Computer Science & Psychology graduate from South Africa (open to relocation), with commercial full-stack and NLP experience. I pair a software engineering foundation with data and statistical analysis (Python, R, SQL), turning messy data into evidence and decisions, and build systems that respond to what users need and do and explain the decisions they make.
 
 🌐 **Portfolio:** [nonluthando.github.io/portfolio-v2](https://nonluthando.github.io/portfolio-v2/index.html)
 🟢 **Open to** graduate & junior software, data and product roles
@@ -20,10 +20,6 @@ A curious, self-directed problem solver who learns by doing. BSc Computer Scienc
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
-- **Backend:** Django, FastAPI, Laravel/PHP, Flask, PostgreSQL, testing & CI
-- **Data & ML:** Python, SQL, pandas, scikit-learn, R, spaCy NLP, statistical testing
-- **AI:** Gemini, RAG with pgvector, multimodal extraction. Models extract, draft and retrieve; deterministic code decides, validates and explains.
 
 ## Featured projects
 
