@@ -34,6 +34,16 @@ A curious, self-directed problem solver who learns by doing. BSc Computer Scienc
 | 🏠 [ScoreRent](https://scorerent.onrender.com) | Explainable rental decision support: Gemini extracts listing facts from screenshots, a deterministic engine scores them. |
 | 🎲 [Parallel Monte Carlo](https://github.com/nonluthando/parallel-monte-carlo-optimization) | Java Fork/Join parallelism, benchmarked honestly, including where it is slower. |
 
+## Data & statistical analysis
+
+From messy inputs to evidence and decisions, in Python and R. [See all analyses →](https://nonluthando.github.io/portfolio-v2/projects/data-analysis.html)
+
+- **E-commerce funnel analysis:** rebuilt a five-stage customer journey and traced the main drop-off (59.9% from product view to cart) to product-page friction rather than traffic quality.
+- **Retail customer segmentation:** 264,834 transactions compared across lifestage and value segments, with significance testing on unit-price differences.
+- **Trial vs control store evaluation:** matched control stores on pre-trial performance; uplift was significant in 2 of 3 trial months, so the recommendation was to replicate before rolling out.
+- **Applied statistics in R:** t-tests, chi-square, one-way and factorial ANOVA, reported with effect sizes, assumptions and limitations.
+- **Data cleaning utility:** Python tool (pandas, OpenPyXL, PyArrow) that cleans and converts between CSV, Excel and Parquet.
+
 ## Experience
 
 **Software Engineering Contractor, EdTech startup (2026).** Backend, API and NLP work in established Laravel/PHP and Python/Flask codebases: code review, PHPUnit/pytest, GitHub Actions and production debugging.
